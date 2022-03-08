@@ -18,6 +18,7 @@ for x in range(7): #loop that repeats 7 times:
     for tag in tags:
         links.append(tag.get('href' , None)) #add all the href in the links list
     url = links[position-1] #url takes the 18th link as the new varible and runs the next iteration of the loop
+    
 
 print(url)
 
