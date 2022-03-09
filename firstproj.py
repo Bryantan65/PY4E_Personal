@@ -1,0 +1,1 @@
+print('hello i am starting py4e cuz i forgot everything i learnt in school')
